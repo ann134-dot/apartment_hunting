@@ -1,0 +1,16 @@
+GET /a/ajax-map-list/map/arenda/kvartiry/astana/?das[_sys.hasphoto]=1&das[live.rooms][0]=1&das[live.rooms][1]=2&das[price][to]=220000&das[who]=1&zoom=14&lat=51.11182&lon=71.41732&areas=c51.103021%2C71.396762%2C978.7&page=2
+Host: krisha.kz
+Cookie: krssid=ck47677siu11vqmg4hmvhuegdv; krishauid=e66ac80fdb4f0005a852697dd2303f082c417d4c; _ga_6YZLS7YDS7=GS1.1.1706460332.1.0.1706460332.60.0.0; _ga=GA1.2.358705879.1706460332; _gid=GA1.2.590470404.1706460333; _ym_uid=1706460335102195879; _ym_d=1706460335; _ym_visorc=b; _gat=1; ssaid=a91dba10-bdfc-11ee-9b2f-ebef34536d53; __tld__=null; _ym_isad=2; kr_cdn_host=//alakcell-kz.kcdn.online; __gads=ID=a3cc1ea5c18307cf:T=1706460340:RT=1706460340:S=ALNI_Mb_OxFSGqMIppNQJKfmP57zSZHr4A; __gpi=UID=00000d4b098ae0d7:T=1706460340:RT=1706460340:S=ALNI_MZPizv7_DLMECiVqg6aMOlowNHbUw
+Sec-Ch-Ua: "Chromium";v="121", "Not A(Brand";v="99"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.85 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://krisha.kz/map/arenda/kvartiry/astana/?das[_sys.hasphoto]=1&das[live.rooms][]=1&das[live.rooms][]=2&das[price][to]=220000&das[who]=1&zoom=14&lat=51.11182&lon=71.41732&areas=c51.103021,71.396762,978.7
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Priority: u=1, i
